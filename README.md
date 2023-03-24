@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">📚 I'm currently learning pentesting<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
